@@ -36,7 +36,6 @@ Users should be able to:
 
 ### Links
 - Solution URL: [Add solution URL here](https://https://github.com/90541115588/mtm6404-frontend-mentor-90541115588)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
 
