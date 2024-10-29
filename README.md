@@ -73,7 +73,7 @@ I plan to continue refining my responsive design skills and improve the use of c
 
 ## Author
 - Website - Manpreet Singh
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/90541115588)
+- Frontend Mentor - [Manpreet Singh](https://www.frontendmentor.io/profile/90541115588)
 
 ## Acknowledgments
 
